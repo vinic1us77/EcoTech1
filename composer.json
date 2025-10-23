@@ -1,0 +1,19 @@
+{
+    "name": "viniciuscavalheiro/ecotech",
+    "description": "Projeto da aula de Programação para Internet do curso GTI da Fatec Jahu",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Corteze Cavalheiro",
+            "email": "vinicorteze99@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
